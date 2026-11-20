@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/profile-cursors.svg" alt="Animated colorful profile-building scene with multiple cursors collaborating" width="100%" />
+  <img src="assets/profile-cursors.svg" alt="Animated scene of three cursors working together in a profile editor and updating a live GitHub profile preview" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Builder;OpenCV+Enthusiast;Always+building+and+learning" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=E85D75&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Builder;OpenCV+Enthusiast;Always+building+and+learning" alt="Animated typing introduction" />
 </p>
 
 ## 👋 Hi, I'm Shubhakar Kailasa
 
-Python developer creating automation tools, image-processing experiments, and practical projects. This profile's animated header shows several cursors collaborating to put the page together.
+Python developer creating automation tools, image-processing experiments, and practical projects. The animated header shows three collaborators making the profile together: setting up the profile, writing the introduction, and adding project cards to a live preview.
 
 ## 🛠️ Projects
 
@@ -35,5 +35,5 @@ Python developer creating automation tools, image-processing experiments, and pr
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhakarkailasa-cmd&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shubhakarkailasa-cmd&style=for-the-badge&color=E85D75" alt="Profile views" />
 </p>
