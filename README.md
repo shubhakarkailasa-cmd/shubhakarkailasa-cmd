@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/profile-cursors.svg" alt="Animated scene of three cursors working together in a profile editor and updating a live GitHub profile preview" width="100%" />
+  <img src="assets/profile-cursors.svg" alt="Animated neon workspace where three collaborators move through a profile editor, adding an introduction and project cards that appear in a live profile preview" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=E85D75&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Builder;OpenCV+Enthusiast;Always+building+and+learning" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=35DBFF&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Builder;OpenCV+Enthusiast;Making+ideas+click+into+place" alt="Animated typing introduction" />
 </p>
 
 ## 👋 Hi, I'm Shubhakar Kailasa
 
-Python developer creating automation tools, image-processing experiments, and practical projects. The animated header shows three collaborators making the profile together: setting up the profile, writing the introduction, and adding project cards to a live preview.
+Python developer creating automation tools, image-processing experiments, and practical projects. The animated header shows three collaborators moving through a shared editor—writing the introduction, adding project cards, and polishing the live profile preview.
 
-## 🛠️ Projects
+## ⚡ Projects
 
 | Project | About |
 |---|---|
@@ -21,7 +21,7 @@ Python developer creating automation tools, image-processing experiments, and pr
 | [ISS Live Tracker](https://github.com/shubhakarkailasa-cmd/AN-ISS-LIVE-TRACKER) | Live ISS tracking project. |
 | [Working Calculator](https://github.com/shubhakarkailasa-cmd/A-working-calculator) | Python calculator with conditional logic and error handling. |
 
-## 💻 Tech Stack
+## 🧪 My toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,9 +31,9 @@ Python developer creating automation tools, image-processing experiments, and pr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhakarkailasa-cmd&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhakarkailasa-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1020&title_color=ff5df2&icon_color=35dbff&text_color=c8ccef" alt="GitHub stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhakarkailasa-cmd&style=for-the-badge&color=E85D75" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shubhakarkailasa-cmd&style=for-the-badge&color=8d5cff" alt="Profile views" />
 </p>
